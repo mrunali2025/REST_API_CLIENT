@@ -29,4 +29,4 @@ A simple Java application that fetches real-time weather data using a public RES
 - org.json library (add to classpath)
 
 
-#output: [Weather.txt](https://github.com/user-attachments/files/20886480/Weather.txt)
+#output: [WeatherFetcher.txt](https://github.com/user-attachments/files/20886825/WeatherFetcher.txt)
