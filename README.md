@@ -12,20 +12,21 @@ MENTOR : MUZAMMIL AHMED
 
 # REST_API_CLIENT
 
-#AI-Based Recommendation System
+# WeatherFetcher 
 
-#Description
+A simple Java application that fetches real-time weather data using a public REST API (OpenWeatherMap) and displays it in a user-friendly format.
 
-This project builds a collaborative filtering recommendation system using Java and Apache Mahout to suggest products/content based on user preferences.
+##  Features
 
-#Features
+- Uses Java 11+ HTTP client
+- Parses JSON responses
+- Displays temperature, humidity, and weather description
 
-Item recommendation using user-based collaborative filtering
+##  Requirements
 
-Uses Pearson Correlation for similarity
+- Java 11 or later
+- Internet access
+- org.json library (add to classpath)
 
-Built with Apache Mahout (v0.9)
-
-Takes input as a user-item preference dataset (data.csv)
 
 #output: [Weather.txt](https://github.com/user-attachments/files/20886480/Weather.txt)
