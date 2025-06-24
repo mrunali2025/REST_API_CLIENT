@@ -28,4 +28,4 @@ Built with Apache Mahout (v0.9)
 
 Takes input as a user-item preference dataset (data.csv)
 
-#output:
+#output: [Weather.txt](https://github.com/user-attachments/files/20886480/Weather.txt)
